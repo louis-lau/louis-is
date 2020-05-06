@@ -1,0 +1,22 @@
+#soundcloud {
+  display: none;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: sans-serif;
+  background: url("https://media.giphy.com/media/l41Yy2XyXWlSvupl6/giphy.gif") no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+h1 {
+  width: 100%;
+  font-size: 30vw;
+}
